@@ -1,21 +1,21 @@
-def addition(num1, num2)
+def addition(4, 1)
 end
 
-def subtraction(num1, num2)
+def subtraction(4, 2)
 end
 
-def division(num1, num2)
+def division(6, 2)
 end
 
-def multiplication(num1, num2)
+def multiplication(4, 7)
 end
 
-def modulo(num1, num2)
+def modulo(5, 4)
 end
 
-def square_root(num)
+def square_root(9)
 end
 
-def order_of_operation(num1, num2, num3, num4)
+def order_of_operation(4, 3, 2, 1)
   #Hint:  __ + (( __ * __ ) / __ )
 end
